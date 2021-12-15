@@ -14,7 +14,7 @@ In 2021 I wanted to develop my analytical skills and learned to implement statis
 I work equally well on my own initiative and as part of a team. ‘Can do’ attitude, solution-driven mindset and proactive approach come naturally to me. 
 
 ### Currently looking for a job opportunity
-I am passionate about human behaviour and I am now looking for a role where I can use my problem solving, analytical and visualisation skills  to help colleagues to get accurate, meaningful and easily understandable information and assist business to make good decisions. I am particularly interested in those roles which enable me to analyse people’s activities, attitudes, patterns and performances in the field of consumer behaviour or website navigation patterns.
+I am passionate about human behaviour and I am now looking for a role where I can use my problem solving, analytical and visualisation skills  to help colleagues to get accurate, meaningful and easily understandable information and assist business to make good decisions. I am particularly interested in those roles which enable me to analyse people’s activities, attitudes, patterns and performances in the field of consumer behaviour or website navigations.
 
 I would prefer to work from home 4 days a week, but I am open for full time opportunities and hybrid work arrangements in London and South East England as well.
 
