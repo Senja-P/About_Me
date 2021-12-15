@@ -19,7 +19,7 @@ I am passionate about human behaviour and I am now looking for a role where I ca
 I would prefer to work from home 4 days a week, but I am open for full time opportunities and hybrid work arrangements in London and South East England as well.
 
 ### Portfolio 
-The list of [case studies on GitHub portfolio page](https://github.com/Senja-P) and [presentations on Tableau](https://public.tableau.com/app/profile/senja.p8569#!/).
+The [case studies](https://github.com/Senja-P) on GitHub and the [presentations](https://public.tableau.com/app/profile/senja.p8569#!/) on Tableau.
 
 CV is available upon request.
 
