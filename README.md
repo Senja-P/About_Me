@@ -24,6 +24,6 @@ The [case studies](https://github.com/Senja-P) on GitHub and the [presentations]
 CV is available upon request.
 
 ### Contact Me 
-You can reach me on senja12@mail.com. 
+You can reach me on senja12@mail.com
 
 Return to the [main page](https://github.com/Senja-P)
