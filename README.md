@@ -15,7 +15,7 @@ I work equally well on my own initiative and as part of a team. ‘Can do’ att
 
 I am passionate about human behaviour and I am interested in roles where I can use my problem solving, analytical and visualisation skills to help colleagues to get accurate, meaningful and easily understandable information and assist business to make good decisions. I am particularly interested in those roles which enable me to analyse people’s activities, attitudes, patterns and performances in the field of consumer behaviour, website navigations or HR.  
 
-I’m currently available for both contract and permanent roles. I would prefer to work from home 4 days a week (e.g. work flexibly through compressed working hours), but I am open for full time opportunities and hybrid work arrangements in London and South East England as well. I am currenly learning Google Analytics and improving my Tableau skills.
+I’m currently available for both contract and permanent roles. I would prefer to work from home 4 days a week (e.g. work flexibly through compressed working hours), but I am open for full time opportunities and hybrid work arrangements in London and South East England as well. I am currently learning Google Analytics and improving my Tableau skills.
 
 ### Portfolio 
 The [case studies](https://github.com/Senja-P) on GitHub and the [presentations](https://public.tableau.com/app/profile/senja.p8569#!/) on Tableau.
