@@ -13,7 +13,7 @@ In 2021 I wanted to develop my analytical skills. I learned to implement statist
 
 I work equally well on my own initiative and as part of a team. ‘Can do’ attitude, solution-driven mindset and proactive approach come naturally to me. 
 
-I am passionate about human behaviour and I am interested in roles where I can use my problem solving, analytical and visualisation skills to help colleagues to get accurate, meaningful and easily understandable information and assist business to make good decisions. I am particularly interested in those roles which enable me to analyse people’s activities, attitudes, patterns and performances in the field of consumer behaviour, website traffics, digital marketing channels and HR. I am currently learning Google Analytics and improving my Tableau skills.
+I am interested in roles where I can use my problem solving, analytical and visualisation skills to help colleagues to get accurate, meaningful and easily understandable information and assist business to make good decisions. I am passionate about human behaviour and I am particularly interested in those roles which enable me to analyse people’s activities, attitudes, patterns and performances in the field of consumer behaviour, website traffics, digital marketing channels and HR. I am currently learning Google Analytics and improving my Tableau skills.
 
 I’m available for both contract and permanent roles in the UK. I would prefer to work flexibly (e.g. compressed working hours) at home or through hybrid work arrangements in London and South East England.
 
