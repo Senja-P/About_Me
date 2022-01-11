@@ -2,7 +2,7 @@
 
 Hi, I am Senja, a creative and innovative Data Analyst with more than 10 years of experience in PMO (Programme Management Office) roles in fast-paced complex Agile and Waterfall IT programmes in London (UK). PMO roles have included analysing finance, resource and project data and gathering requirements from various stakeholders. My accurate and meaningful status updates, critical insights and process improvements have helped senior management teams and other stakeholders work more efficiently and make informed decisions. 
 
-In 2021 I wanted to develop my analytical skills. I learned to implement statistical methods and use analytic tools and techniques.
+In 2021 I wanted to develop my analytical skills. I learned to implement statistical methods and use analytic tools and techniques; SQL, Python, Excel and Tableau, and I am looking forward to bringing these skills to my new role.
 
 ### My key skills are; 
 -	Data Analysis process from start to finish; defining the goals, selecting, cleaning and analysing data. Presenting the findings and insights
@@ -13,9 +13,9 @@ In 2021 I wanted to develop my analytical skills. I learned to implement statist
 
 I work equally well on my own initiative and as part of a team. ‘Can do’ attitude, solution-driven mindset and proactive approach come naturally to me. 
 
-I am passionate about human behaviour and I am interested in roles where I can use my problem solving, analytical and visualisation skills to help colleagues to get accurate, meaningful and easily understandable information and assist business to make good decisions. I am particularly interested in those roles which enable me to analyse people’s activities, attitudes, patterns and performances in the field of consumer behaviour, website navigations or HR.  
+I am passionate about human behaviour and I am interested in roles where I can use my problem solving, analytical and visualisation skills to help colleagues to get accurate, meaningful and easily understandable information and assist business to make good decisions. I am particularly interested in those roles which enable me to analyse people’s activities, attitudes, patterns and performances in the field of consumer behaviour, website traffics, digital marketing channels and HR. I am currently learning Google Analytics and improving my Tableau skills.
 
-I’m currently available for both contract and permanent roles. I would prefer to work from home 4 days a week (e.g. work flexibly through compressed working hours), but I am open for full time opportunities and hybrid work arrangements in London and South East England as well. I am currently learning Google Analytics and improving my Tableau skills.
+I’m available for both contract and permanent roles in the UK. I would prefer to work flexibly (e.g. compressed working hours) at home or through hybrid work arrangements in London and South East England.
 
 ### Portfolio 
 The [case studies](https://github.com/Senja-P) on GitHub and the [presentations](https://public.tableau.com/app/profile/senja.p8569#!/) on Tableau.
