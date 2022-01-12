@@ -8,7 +8,7 @@ In 2021 I wanted to develop my analytical skills. I learned to implement statist
 -	Data Analysis process from start to finish; defining the goals, selecting, cleaning and analysing data. Presenting the findings and insights
 -	Basic use of statistical methods in practise; hypothesis and correlation testing
 -	Use of SQL queries, Python scripts and Excel
--	Story telling, status reports and data visualisations in Tableau and Power Point
+-	Storytelling, status reports and data visualisations in Tableau and Power Point
 -	Ability to pay attention to details without losing the sight of the big picture
 
 I work equally well on my own initiative and as part of a team. ‘Can do’ attitude, solution-driven mindset and proactive approach come naturally to me. 
