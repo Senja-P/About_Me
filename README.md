@@ -1,6 +1,6 @@
 # About_Me
 
-Hi, I am Senja, a creative and highly organised Data Analyst with more than 10 years of experience in PMO (Programme Management Office) roles in fast-paced complex Agile and Waterfall IT programmes in London (UK). PMO roles have included analysing finance, resource and project data and gathering requirements from various stakeholders. My accurate and meaningful status updates, critical insights and process improvements have helped senior management teams and other stakeholders work more efficiently and make informed decisions. 
+Hi, I am Senja, a creative and highly organised Data Analyst and Resource & Project Specialist with more than 10 years of experience in PMO (Programme Management Office) roles in fast-paced complex Agile and Waterfall IT programmes in London (UK). PMO roles have included analysing finance, resource and project data and gathering requirements from various stakeholders. My accurate and meaningful status updates, critical insights and process improvements have helped senior management teams and other stakeholders work more efficiently and make informed decisions. 
 
 In 2021 I wanted to develop my analytical skills. I learned to implement statistical methods and use analytic tools and techniques; SQL, Python, Excel and Tableau, and I am looking forward to bringing these skills to my new role.
 
